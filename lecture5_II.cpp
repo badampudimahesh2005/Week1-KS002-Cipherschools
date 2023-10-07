@@ -17,7 +17,7 @@ int main(){
 // }
 
 
-int a[9];
+int a[10];
 
 
 cout<<"give 10 integers as input"<<endl;
